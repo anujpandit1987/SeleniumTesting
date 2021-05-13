@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  
+  <parameter name="sUsername" value="panuj87@gmail.com"/>
+  <parameter name="sPassword" value="Progressive@123"/>
+  <test name = "facebook_login">
+  
+	<classes>
+
+	<class name="com.croma.testng.FacebookLogin" />
+
+	</classes>
+  </test>
+
+
+
+
+</suite> 
