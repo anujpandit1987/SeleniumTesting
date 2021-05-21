@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Ignore;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeTest;
@@ -26,7 +27,7 @@ public class TestExample {
 
 
   @DataProvider
-  public Object[][] dp() {
+   public Object[][] dp() {
     return new Object[][] {
       new Object[] { 1, "a" },
       new Object[] { 2, "b" },
