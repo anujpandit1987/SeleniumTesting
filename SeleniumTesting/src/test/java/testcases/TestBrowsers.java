@@ -35,7 +35,7 @@ public class TestBrowsers {
 		}
 
 		
-		driver.get("http://way2automation.com");
+		driver.get("http://cromacampus.com");
 		
 		String title = driver.getTitle();
 		System.out.println(title.length());
