@@ -1,0 +1,6 @@
+20:03:28,089 DEBUG devpinoyLogger:48 - config file loaded !!!
+20:03:28,096 DEBUG devpinoyLogger:57 - OR file loaded !!!
+20:03:35,121 DEBUG devpinoyLogger:68 - firefox Launched !!!
+20:03:36,011 DEBUG devpinoyLogger:17 - Inside Login Test
+20:03:36,229 DEBUG devpinoyLogger:25 - Login sucessfully executed
+20:03:36,326 DEBUG devpinoyLogger:49 - Data selected
